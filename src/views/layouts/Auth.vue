@@ -1,9 +1,7 @@
 <template>
-  <v-app class="bg-grey-lighten-5">
+  <v-layout>
     <router-view />
-  </v-app>
+  </v-layout>
 </template>
-
 <script lang="ts" setup>
-  //
 </script>
